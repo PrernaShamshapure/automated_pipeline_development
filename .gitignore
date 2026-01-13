@@ -2,3 +2,10 @@ data/
 results/
 .nextflow*
 work/
+work/
+.results/
+.nextflow*
+
+git add .
+git commit -m "Initial automated Nextflow pipeline with FastQC and Cutadapt"
+
